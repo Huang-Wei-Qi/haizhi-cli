@@ -1,0 +1,17 @@
+{
+  "name": "haizhi-cli",
+  "version": "1.0.0",
+  "description": "海致-cli 用于发布数派自定义组件 以及远程上传组件 ",
+  "main": "index.js",
+  "bin": {
+    "haizhi": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
